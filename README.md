@@ -1,3 +1,24 @@
+''''''''
+@autor -thenowrock juan david jimenez atehortua.
+Esto fue lo que entendi en la clase de analisis y algoritmos el dia 15 de febrero de 2023
+
+-Crear un programa que calcule descuentos en productos cuyo precio sea en el rango de 1 <= hasta 2,000,000. Si estan en este rango se les aplica el descuento del 19%.
+
+-El usuario debe escoger la categoria que desee y debe poder escoger un producto.
+
+-Cuando se haya escogido el producto evaluamos el precio a ver si tiene descuento o no tiene descuento , esto se evalua mediante el precio del producto.
+
+-Sino esta en el rango debe de presentar un mensaje que diga este producto no tiene descuento del 19%, en caso de que si tenga descuento debe de presentar un mensaje que diga este producto tiene el 19% de descuento y el descuento aplicado y el total de su precio con el descuento.
+
+-El usuario debe de poder ver todos los productos disponibles.
+
+''''''''
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
